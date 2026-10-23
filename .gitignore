@@ -1,0 +1,10 @@
+## [Template] VisualStudio.gitignore
+##
+*.obj
+*.bin
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+[Bb]in/
+[Oo]bj/
